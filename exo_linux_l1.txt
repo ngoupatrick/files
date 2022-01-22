@@ -1,0 +1,24 @@
+1- deplacez vous dans votre repertoire utilisateur ("/home/l_un")
+2- En utilisant la commandes ls avec l'option -l, afficher le contenu du dossier "exo_linux"
+3- deplacez vous dans le dossier "exo_linux"
+4- en etant dans le dossier "exo_linux", creer un dossier nommé "exo_linux_backup"
+5- copier les fichiers "diabetes.csv" et "exo_linux" dans "exo_linux_backup"
+6- Affichez votre repertoire courant
+7- affichez le contenu du fichier "diabetes.csv"
+8- affichez la premiere ligne et la derniere ligne du fichier "diabetes.csv"
+9- affichez les 05 premieres ligne du fichier "diabetes.csv" et les mettre dans le fichier "headers.txt"
+10- affichez les 05 dernieres ligne du fichier "diabetes.csv" et les mettre dans le fichier "footers.txt"
+11- combien ligne compte le fichier "diabetes.csv"?
+12- combien de mot compte le fichier "diabetes.csv"?
+13- rechercher toutes les lignes debutant par "0"
+14- en utilisant "|", compter le nombre de ligne débutant par "0"
+15- rechercher toutes les lignes débutants par "7" et mettez le resultat dans le fichier "7.txt"
+16- rechercher toutes les lignes débutants par "1" et mettez le resultat dans le fichier "1.txt"
+17- rechercher toutes les lignes se terminant par "1" et mettez le resultat dans le fichier "diabetiques.txt"
+18- rechercher toutes les lignes se terminant par "0" et mettez le resultat dans le fichier "non_diabetiques.txt"
+19- En utilisant le fichier "diabetiques.txt", dite combien de diabetique il y'a
+20- En utilisant le fichier "non_diabetiques.txt", dite combien de non diabetique il y'a
+21- effectuer un tri du fichier "diabetes.csv" suivant la colonne 2
+22- A l'aide de la commande "cut", extraire les colonnes 1,2,8 et 9 et mettez le resultat dans "extract.csv"
+
+
